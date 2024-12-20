@@ -1,0 +1,39 @@
+  23:09:56.713  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest**************
+  23:09:57.245  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on MyAccount Link*************
+  23:09:57.759  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on Register Link*************
+  23:09:57.762  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing cusomer details*************
+  23:09:59.054  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validating expecting message*************
+  23:10:55.711  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest**************
+  23:10:56.194  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on MyAccount Link*************
+  23:10:56.652  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on Register Link*************
+  23:10:56.661  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing cusomer details*************
+  23:10:58.147  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validating expecting message*************
+  23:12:28.851  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest**************
+  23:12:29.320  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on MyAccount Link*************
+  23:12:29.766  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on Register Link*************
+  23:12:29.770  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing cusomer details*************
+  23:12:31.381  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validating expecting message*************
+  23:13:40.256  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest**************
+  23:13:40.841  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on MyAccount Link*************
+  23:13:41.285  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on Register Link*************
+  23:13:41.289  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing cusomer details*************
+  23:13:43.023  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validating expecting message*************
+  23:17:27.518  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest**************
+  23:17:28.110  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on MyAccount Link*************
+  23:17:28.613  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on Register Link*************
+  23:17:28.617  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing cusomer details*************
+  23:17:30.532  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validating expecting message*************
+  23:17:30.599  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Finishing TC001_AccountRegistrationTest**************
+  23:18:05.539  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest**************
+  23:18:06.044  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on MyAccount Link*************
+  23:18:06.499  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on Register Link*************
+  23:18:06.505  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing cusomer details*************
+  23:18:08.230  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validating expecting message*************
+  23:18:08.329  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Finishing TC001_AccountRegistrationTest**************
+  23:18:43.520  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest**************
+  23:18:43.978  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on MyAccount Link*************
+  23:18:44.405  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on Register Link*************
+  23:18:44.413  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing cusomer details*************
+  23:18:46.149  [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validating expecting message*************
+  23:18:46.205  [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed...
+  23:18:46.205  [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug Logs..
